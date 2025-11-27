@@ -21,10 +21,13 @@ Donald Trump and Kim Jong Un
 
 ---
 Some Results of Landmarks Identified
+
 Example 1
+
 <img width="342" height="481" alt="Example 1" src="https://github.com/user-attachments/assets/58ef2750-9ce5-40ab-8b8c-5c79e2540b58" />
 
 Example 2
+
 <img width="500" height="669" alt="Example 2" src="https://github.com/user-attachments/assets/e0c36686-c613-47d5-83ad-49e6aaee0a22" />
 
 ---
