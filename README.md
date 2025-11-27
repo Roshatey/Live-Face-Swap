@@ -79,6 +79,4 @@ Press q to exit.
 ## Notes
   - Ensure only one face is in the frame for accurate swapping.
   - Lighting conditions may affect blending results.
-  - Webcam resolution and frame size may impact performance.
-   git clone https://github.com/yourusername/LiveFaceSwap.git
-   cd LiveFaceSwap
+
