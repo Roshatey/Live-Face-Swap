@@ -14,13 +14,15 @@ LiveFaceSwap is a Python-based application that allows real-time face swapping b
 ---
 ## Some Results of Swapped Faces
 Donald Trump and Kim Jong Un
+
 ![TSK](https://github.com/user-attachments/assets/ddcc4a08-d73e-4577-9972-3beb91c93707)
+
 ![KST](https://github.com/user-attachments/assets/f96c635b-75cb-42e6-97e3-41148d5e5a06)
 
 ---
 Some Results of Landmarks Identified
 Example 1
-![Uploading Example 1.png…]()
+<img width="342" height="481" alt="Example 1" src="https://github.com/user-attachments/assets/58ef2750-9ce5-40ab-8b8c-5c79e2540b58" />
 
 Example 2
 <img width="500" height="669" alt="Example 2" src="https://github.com/user-attachments/assets/e0c36686-c613-47d5-83ad-49e6aaee0a22" />
